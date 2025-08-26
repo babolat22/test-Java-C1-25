@@ -10,4 +10,5 @@ class Bota extends Dispositivo {
         super(consumoEnergia);
         nroCalzado=40;
     }
+    
 }

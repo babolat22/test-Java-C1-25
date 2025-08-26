@@ -99,6 +99,12 @@ class Armadura {
         return salud;
     }
 
+
+    
+
+
+    // ejemplo para commit 
+
     public void setSalud(int salud) {
         this.salud = salud;
     }

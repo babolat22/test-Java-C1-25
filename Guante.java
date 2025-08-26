@@ -4,6 +4,11 @@
  */
 package jarvis;
 
+
+
+
+
+
 class Guante extends Dispositivo {
     public Guante(float consumoEnergia) {
         super(consumoEnergia);
